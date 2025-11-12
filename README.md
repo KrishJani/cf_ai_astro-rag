@@ -4,7 +4,7 @@
 >
 > This is a **fork** of the original **Astro-Rag** repository, which I am including in my application to Cloudflare.
 >
-> This project was built by my team, [**Skywalkers**], for the **NASA NYU Hackathon**. We were honored to win **First Place**, which included the **"Best Cloudflare Award"** for this solution 🎉. The project is built entirely on the Cloudflare stack (Workers, Pages, D1, Vectorize, and AI).
+> This project was built by my team, **Skywalkers**, for the **NASA NYU Hackathon**. We were honored to win **First Place**, which included the **"Best Cloudflare Award"** for this solution 🎉. The project is built entirely on the Cloudflare stack (Workers, Pages, D1, Vectorize, and AI).
 >
 >   * **Original Repository:** [Astro RAG](https://github.com/orgs/skywalkers77/repositories)
 >   * **My Teammates:** [Riddhi](https://github.com/riddhiRaina), [Hemanth](https://github.com/itsmrhem), [Yatharth](https://github.com/yatharthMogra) and [Nihil](https://github.com/NikhilMahana)
